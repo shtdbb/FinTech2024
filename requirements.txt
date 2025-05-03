@@ -1,0 +1,16 @@
+faiss-cpu
+numpy
+scikit-learn
+ltp
+tqdm
+requests
+pandas
+streamlit
+fastapi
+uvicorn[standard]
+transformers
+torch
+sentence-transformers
+datasets
+peft
+pdfminer.six
